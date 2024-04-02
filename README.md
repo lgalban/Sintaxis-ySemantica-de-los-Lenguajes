@@ -1,2 +1,7 @@
 # Sintaxis-ySemantica-de-los Lenguajes
- Repositorio personal para Sintaxis
+	K2052
+	2024
+	204.653-2
+	Galban 
+	Lucas
+Prueba
