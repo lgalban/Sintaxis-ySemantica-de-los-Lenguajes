@@ -7,17 +7,13 @@
 		 Galban 
 		 Lucas
 	00- Hello
-Transcripción del enunciado.
-• Hipótesis de trabajo que surgen luego de leer el enunciado.
+## Transcripción del enunciado: 
+"Adquirir y preparar los recursos necesarias para resolver los trabajos del curso"
 
-un archivo .gitignore.
-• un archivo Makefile.footnot:requiered-optional[Para algunos trabajos, el
-archivo Makefile y los tests son obligatorios, de ser así, se indica en el
-enunciado del trabajo.]
-• archivos tests.footnot:requiered-optional[]
+# Hipotesis post leer el enunciado: 
+ Se debera de generar un repositorio de GitHub el cual debe estar publico y debe servir para poder guardar los trabajos practicos personales. 
+ Ademas se debera crear el Trabajo 00 que consiste en descargar un compilador de C 
 
-/* Qué: Nombre
- * Breve descripción
- * Quiénes: Autores
- * Cuando: Fecha de última modificación
- */
+# Versiones 
+	Verion del compilador: 13.1.0
+	Version del lenguaje: C2X
